@@ -1,2 +1,2 @@
-# functionnal-practice
+# functionnal programming practice
 Functional programming courses 
